@@ -100,3 +100,22 @@ p {
         gap: 15px;
     }
 }
+
+main {
+    max-width: 1000px;
+    margin: 50px auto;
+    padding: 0 20px;
+}
+
+section {
+    margin-bottom: 50px;
+}
+
+section h2 {
+    color: #8b0000;
+    margin-bottom: 15px;
+}
+
+section p {
+    text-align: left;
+}
