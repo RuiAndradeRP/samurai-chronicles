@@ -123,8 +123,9 @@ section p {
 
 .section-image {
     width: 100%;
+    max-width: 900px;
     height: auto;
     display: block;
-    margin: 0 auto 25px auto;
+    margin: 30px auto;
     border-radius: 10px;
 }
